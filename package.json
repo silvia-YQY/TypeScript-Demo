@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "YQY",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvia-YQY/TypeScript-Demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silvia-YQY/TypeScript-Demo/issues"
+  },
+  "homepage": "https://github.com/silvia-YQY/TypeScript-Demo#readme",
+  "description": ""
+}
